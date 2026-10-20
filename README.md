@@ -7,3 +7,6 @@ Esta aplicación web interactiva permite explorar y analizar un conjunto de dato
 - Una de las funcionalidades es que permite generar un histograma interactivo del kilometraje (*odometer*) mediante una casilla de verificación para analizar la distribución del uso de los vehículos.
 - Contiene la opción para construir un gráfico de dispersión interactivo entre el kilometraje y el precio para observar cómo el recorrido del auto impacta en su valor de venta.
 - De igual manera se presentan filtros dinámicos mediante componentes interactivos de Streamlit y gráficos construidos con Plotly.
+
+##Liga de la prueba: 
+- https://web-app-vehicles-env.onrender.com/
